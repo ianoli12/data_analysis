@@ -1,1 +1,0 @@
-dataset originalhttps://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-casesCaso me interessehttps://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-cases?select=covid-variants.csv
